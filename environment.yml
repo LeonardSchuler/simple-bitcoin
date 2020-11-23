@@ -1,0 +1,18 @@
+name: bitcoin
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - black
+  - flake8
+  - Flask
+  - ipython
+  - matplotlib
+  - mypy
+  - numpy
+  - pandas
+  - pre-commit
+  - pip
+  - pytest
+  - python-dotenv
+  - requests
